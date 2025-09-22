@@ -1,0 +1,2 @@
+rootProject.name = "SmsInjectorApp"
+include ':app'
